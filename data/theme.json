@@ -1,8 +1,8 @@
 {
-  "footer": "Copyright &copy; 2019",
+  "footer": "Copyright &copy; 2020",
   "dark_mode": false,
-  "site_name": "Nichlas W. Andersen",
-  "site_description": "Creative technologist",
-  "hero_title": "Simplicity. Aesthetics. Value.",
-  "hero_subtitle": "Hi there, I'm an independent Digital Designer &amp; Art Director focused on digital design for brands that like to have fun."
+  "site_name": "Test Site",
+  "site_description": "Test Site",
+  "hero_title": "A science platform for human and behavior research",
+  "hero_subtitle": "Supported by the <a href=\"http://www.cadrek12.org/projects/crowdsourcing-neuroscience-interactive-cloud-based-citizen-science-platform-high-school\">National Science Foundation’s Discovery Research preK-12 (DRK-12) program</a>"
 }
